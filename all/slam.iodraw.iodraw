@@ -31,9 +31,9 @@
         <mxCell id="Ddd9oBrA-KgI5L-2rjdh-8" value="efficientnetb0&lt;div&gt;efficientnetb3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="330" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ddd9oBrA-KgI5L-2rjdh-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ddd9oBrA-KgI5L-2rjdh-4" target="Ddd9oBrA-KgI5L-2rjdh-5">
+        <mxCell id="Ddd9oBrA-KgI5L-2rjdh-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ddd9oBrA-KgI5L-2rjdh-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="432" y="440" as="sourcePoint" />
+            <mxPoint x="530" y="200" as="sourcePoint" />
             <mxPoint x="572" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="627" y="200" />
