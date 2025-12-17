@@ -137,7 +137,7 @@
           <mxGeometry x="10" y="305" width="200" height="165" as="geometry" />
         </mxCell>
         <mxCell id="rqfVUZohHpL6Juinl7NE-1" value="最优方案：dinov2（微调），DPTv2，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="510" width="240" height="80" as="geometry" />
+          <mxGeometry x="10" y="490" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
