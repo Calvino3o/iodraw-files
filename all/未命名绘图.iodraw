@@ -139,6 +139,9 @@
         <mxCell id="rqfVUZohHpL6Juinl7NE-1" value="最优方案：dinov2（微调），DPTv2，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="490" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="rqfVUZohHpL6Juinl7NE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="585" width="240" height="105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
