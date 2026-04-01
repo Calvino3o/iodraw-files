@@ -62,7 +62,7 @@
           <mxGeometry x="120.5" y="585" width="244" height="27" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-14" value="结合无梯度遮挡掩码施加静态区域频谱一致性损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="105.5" y="633" width="274" height="40" as="geometry" />
+          <mxGeometry x="105.5" y="640" width="274" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-15" value="输出: 高精度相机轨迹" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="498" y="739" width="178" height="34" as="geometry" />
