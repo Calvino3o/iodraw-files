@@ -11,7 +11,7 @@
           <mxGeometry x="367" y="666" width="322" height="251" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-3" value="模块一：时序一致的遮挡估计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="81" y="226" width="429" height="350" as="geometry" />
+          <mxGeometry x="81" y="226" width="1019" height="350" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-4" value="输入: 单目RGB视频帧流" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="20" width="191" height="34" as="geometry" />
