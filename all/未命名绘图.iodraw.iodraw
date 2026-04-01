@@ -47,7 +47,7 @@
           <mxGeometry x="316" y="300" width="216" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-9" value="第一阶段: 密集光束平差 Dense BA 估计粗略位姿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="471" y="447" width="231" height="67" as="geometry" />
+          <mxGeometry x="471" y="458" width="231" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-10" target="oHEXg_Nb6c9o7Zm0IF7f-12">
           <mxGeometry relative="1" as="geometry" />
@@ -81,11 +81,6 @@
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-16" value="输出: 高保真无遮挡的三维高斯地图" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130.5" y="710" width="224" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-9" target="oHEXg_Nb6c9o7Zm0IF7f-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-11" target="oHEXg_Nb6c9o7Zm0IF7f-15">
           <mxGeometry relative="1" as="geometry">
