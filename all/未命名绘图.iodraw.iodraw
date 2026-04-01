@@ -31,6 +31,9 @@
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-6" value="提取视觉特征并用MLP预测初始遮挡图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="231" y="251" width="248" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-7" target="oHEXg_Nb6c9o7Zm0IF7f-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-7" value="单目深度引导的跨帧几何形变" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="254.5" y="310" width="201" height="40" as="geometry" />
         </mxCell>
