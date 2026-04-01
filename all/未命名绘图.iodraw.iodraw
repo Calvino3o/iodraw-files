@@ -29,7 +29,7 @@
           <mxGeometry x="231" y="251" width="248" height="39" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-7" value="单目深度引导的跨帧几何形变" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="229" y="310" width="252" height="40" as="geometry" />
+          <mxGeometry x="254.5" y="310" width="201" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-8" value="施加多视角时序一致性约束, 平滑噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="247" y="381" width="216" height="40" as="geometry" />
