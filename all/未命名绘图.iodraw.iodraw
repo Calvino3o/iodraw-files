@@ -59,7 +59,7 @@
           <mxGeometry x="139" y="520" width="207" height="29" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-13" value="傅里叶变换与高斯高通滤波提取高频残差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120.5" y="585" width="244" height="27" as="geometry" />
+          <mxGeometry x="120.5" y="571" width="244" height="27" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-14" value="结合无梯度遮挡掩码施加静态区域频谱一致性损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="105.5" y="640" width="274" height="40" as="geometry" />
