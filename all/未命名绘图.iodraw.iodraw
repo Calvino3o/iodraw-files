@@ -7,7 +7,7 @@
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="666" width="327" height="509" as="geometry" />
         </mxCell>
-        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-2" value="模块二：遮挡引导的两阶段位姿跟踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="367" y="666" width="322" height="251" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-3" value="模块一：时序一致的遮挡估计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -118,6 +118,9 @@
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-29" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;模块三：建图与动态频率增强 (DFE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="666" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-30" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;模块二：遮挡引导的两阶段位姿跟踪&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="718" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
