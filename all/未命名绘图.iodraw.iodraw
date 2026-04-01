@@ -14,7 +14,7 @@
           <mxGeometry x="200" y="226" width="310" height="350" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-4" value="输入: 单目RGB视频帧流" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="257" y="70" width="191" height="34" as="geometry" />
+          <mxGeometry x="259.5" y="90" width="191" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-5" value="基于光流分析的关键帧选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="227" y="154" width="252" height="49" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="231" y="251" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-7" value="单目深度引导的跨帧几何形变" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="368" width="252" height="67" as="geometry" />
+          <mxGeometry x="227" y="340" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-8" value="施加多视角时序一致性约束, 平滑噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="227" y="484" width="258" height="67" as="geometry" />
@@ -51,12 +51,6 @@
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-16" value="输出: 高保真无遮挡的三维高斯地图" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="1225" width="224" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-18" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;strokeWidth=1;exitX=0.507;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-5" target="oHEXg_Nb6c9o7Zm0IF7f-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="355" y="160" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-7" target="oHEXg_Nb6c9o7Zm0IF7f-8">
           <mxGeometry relative="1" as="geometry">
