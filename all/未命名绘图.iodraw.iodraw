@@ -10,9 +10,6 @@
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="367" y="666" width="322" height="251" as="geometry" />
         </mxCell>
-        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-3" target="oHEXg_Nb6c9o7Zm0IF7f-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="226" width="310" height="350" as="geometry" />
         </mxCell>
@@ -60,7 +57,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-5" target="oHEXg_Nb6c9o7Zm0IF7f-6">
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-18" value="选取关键帧" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-5" target="oHEXg_Nb6c9o7Zm0IF7f-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
