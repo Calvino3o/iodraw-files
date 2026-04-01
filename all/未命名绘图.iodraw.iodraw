@@ -56,7 +56,7 @@
           <mxGeometry x="116.5" y="460" width="252" height="33" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-11" value="第二阶段: 引入遮挡加权渲染损失进行位姿细化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="461" y="564" width="252" height="84" as="geometry" />
+          <mxGeometry x="461" y="564" width="252" height="46" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-12" target="oHEXg_Nb6c9o7Zm0IF7f-13">
           <mxGeometry relative="1" as="geometry" />
