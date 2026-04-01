@@ -19,6 +19,9 @@
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-4" value="输入: 单目RGB视频帧流" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="261.5" y="90" width="191" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-5" target="oHEXg_Nb6c9o7Zm0IF7f-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-5" value="基于光流分析的关键帧选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="229" y="154" width="252" height="49" as="geometry" />
         </mxCell>
