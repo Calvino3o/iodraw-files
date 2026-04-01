@@ -56,7 +56,7 @@
           <mxGeometry x="461" y="564" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-12" value="3DGS静态背景增量重建与属性优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="43" y="551" width="257" height="67" as="geometry" />
+          <mxGeometry x="139" y="520" width="207" height="29" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-13" value="傅里叶变换与高斯高通滤波提取高频残差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="116" y="723" width="253" height="67" as="geometry" />
