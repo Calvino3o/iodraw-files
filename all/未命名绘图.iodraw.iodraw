@@ -10,6 +10,9 @@
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="357" y="492" width="322" height="251" as="geometry" />
         </mxCell>
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-3" target="oHEXg_Nb6c9o7Zm0IF7f-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="226" width="310" height="204" as="geometry" />
         </mxCell>
@@ -63,13 +66,6 @@
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-16" value="输出: 高保真无遮挡的三维高斯地图" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="61" y="1051" width="224" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-22" value="输出: 时序一致的精确遮挡图" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-8" target="oHEXg_Nb6c9o7Zm0IF7f-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="183" y="576" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-9" target="oHEXg_Nb6c9o7Zm0IF7f-11">
           <mxGeometry relative="1" as="geometry">
