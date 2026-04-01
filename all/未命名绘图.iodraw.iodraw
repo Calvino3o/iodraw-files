@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="oOPKogHLvdLp5kqdOZb_">
-    <mxGraphModel dx="713" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,14 @@
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-12" value="3DGS静态背景增量重建与属性优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="139" y="514" width="207" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-13" target="oHEXg_Nb6c9o7Zm0IF7f-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-13" value="傅里叶变换与高斯高通滤波提取高频残差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120.5" y="571" width="244" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-14" target="oHEXg_Nb6c9o7Zm0IF7f-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-14" value="结合无梯度遮挡掩码施加静态区域频谱一致性损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="105.5" y="624" width="274" height="40" as="geometry" />
