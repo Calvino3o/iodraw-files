@@ -13,11 +13,14 @@
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="226" width="310" height="350" as="geometry" />
         </mxCell>
+        <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-4" target="oHEXg_Nb6c9o7Zm0IF7f-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-4" value="输入: 单目RGB视频帧流" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="259.5" y="90" width="191" height="34" as="geometry" />
+          <mxGeometry x="261.5" y="90" width="191" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-5" value="基于光流分析的关键帧选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="227" y="154" width="252" height="49" as="geometry" />
+          <mxGeometry x="229" y="154" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-6" value="提取视觉特征并用MLP预测初始遮挡图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="231" y="251" width="248" height="39" as="geometry" />
@@ -26,7 +29,7 @@
           <mxGeometry x="227" y="320" width="252" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-8" value="施加多视角时序一致性约束, 平滑噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="224" y="380" width="216" height="40" as="geometry" />
+          <mxGeometry x="247" y="381" width="216" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-9" value="第一阶段: 密集光束平差 Dense BA 估计粗略位姿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="412" y="691" width="231" height="67" as="geometry" />
