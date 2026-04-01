@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="666" width="327" height="509" as="geometry" />
+          <mxGeometry x="20" y="603" width="327" height="509" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="367" y="666" width="322" height="251" as="geometry" />
+          <mxGeometry x="367" y="603" width="322" height="251" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="226" width="310" height="204" as="geometry" />
@@ -41,28 +41,28 @@
           <mxGeometry x="247" y="370" width="216" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-9" value="第一阶段: 密集光束平差 Dense BA 估计粗略位姿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="412" y="691" width="231" height="67" as="geometry" />
+          <mxGeometry x="412" y="628" width="231" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-10" value="将遮挡图作为逆观测权重阻断动态区域梯度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="57" y="691" width="252" height="67" as="geometry" />
+          <mxGeometry x="57" y="628" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-11" value="第二阶段: 引入遮挡加权渲染损失进行位姿细化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="402" y="808" width="252" height="84" as="geometry" />
+          <mxGeometry x="402" y="745" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-12" value="3DGS静态背景增量重建与属性优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="817" width="257" height="67" as="geometry" />
+          <mxGeometry x="55" y="754" width="257" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-13" value="傅里叶变换与高斯高通滤波提取高频残差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="57" y="967" width="253" height="67" as="geometry" />
+          <mxGeometry x="57" y="904" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-14" value="结合无梯度遮挡掩码施加静态区域频谱一致性损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="57" y="1084" width="252" height="67" as="geometry" />
+          <mxGeometry x="57" y="1021" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-15" value="输出: 高精度相机轨迹" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="439" y="983" width="178" height="34" as="geometry" />
+          <mxGeometry x="439" y="920" width="178" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-16" value="输出: 高保真无遮挡的三维高斯地图" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="71" y="1225" width="224" height="35" as="geometry" />
+          <mxGeometry x="71" y="1162" width="224" height="35" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-21" value="输出: 时序一致的精确遮挡图" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="oHEXg_Nb6c9o7Zm0IF7f-8" target="oHEXg_Nb6c9o7Zm0IF7f-9">
           <mxGeometry relative="1" as="geometry">
@@ -109,10 +109,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-29" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;模块三：建图与动态频率增强 (DFE)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="666" width="220" height="40" as="geometry" />
+          <mxGeometry x="20" y="603" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-30" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;模块二：遮挡引导的两阶段位姿跟踪&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="644" width="210" height="22" as="geometry" />
+          <mxGeometry x="540" y="581" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="oHEXg_Nb6c9o7Zm0IF7f-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;模块一：时序一致的遮挡估计&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="190" height="40" as="geometry" />
