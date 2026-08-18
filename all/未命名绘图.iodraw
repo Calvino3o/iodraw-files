@@ -78,9 +78,12 @@
         </mxCell>
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="92" y="103" as="sourcePoint" />
-            <mxPoint x="749" y="103" as="targetPoint" />
+            <mxPoint x="92" y="106" as="sourcePoint" />
+            <mxPoint x="749" y="106" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V4ieS1H4nNOc__Q_SMo1-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="62" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
