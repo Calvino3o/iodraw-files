@@ -19,12 +19,6 @@
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-4" value="收银台" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="371" y="434" width="22" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V4ieS1H4nNOc__Q_SMo1-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479" y="469" as="sourcePoint" />
-            <mxPoint x="529" y="419" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
