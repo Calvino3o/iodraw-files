@@ -19,10 +19,13 @@
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-4" value="收银台" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="371" y="434" width="22" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V4ieS1H4nNOc__Q_SMo1-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="V4ieS1H4nNOc__Q_SMo1-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="V4ieS1H4nNOc__Q_SMo1-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="517" as="sourcePoint" />
+            <mxPoint x="500" y="517" as="sourcePoint" />
             <mxPoint x="520" y="467" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="496" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
