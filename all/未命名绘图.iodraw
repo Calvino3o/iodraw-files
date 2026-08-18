@@ -16,6 +16,9 @@
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-4" value="收银台" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="241" y="394" width="22" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="V4ieS1H4nNOc__Q_SMo1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="77" width="380" height="215" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
