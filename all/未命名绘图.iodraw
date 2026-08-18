@@ -51,24 +51,24 @@
         </mxCell>
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-16" value="" style="endArrow=none;html=1;rounded=0;jumpSize=6;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="433" y="521" as="sourcePoint" />
-            <mxPoint x="432.76" y="485" as="targetPoint" />
+            <mxPoint x="189.24" y="161" as="sourcePoint" />
+            <mxPoint x="189" y="125" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="432.76" y="500" />
+              <mxPoint x="189" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-17" value="" style="endArrow=none;html=1;rounded=0;jumpSize=6;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="578" y="521" as="sourcePoint" />
-            <mxPoint x="577.76" y="485" as="targetPoint" />
+            <mxPoint x="334.24" y="161" as="sourcePoint" />
+            <mxPoint x="334" y="125" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="577.76" y="500" />
+              <mxPoint x="334" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-18" value="大门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="472" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="228.24" y="115" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
