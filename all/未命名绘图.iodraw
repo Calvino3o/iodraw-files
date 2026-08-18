@@ -40,13 +40,13 @@
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-9" value="大门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="462" y="465" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V4ieS1H4nNOc__Q_SMo1-10" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="V4ieS1H4nNOc__Q_SMo1-10" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="278" y="298" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V4ieS1H4nNOc__Q_SMo1-11" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="V4ieS1H4nNOc__Q_SMo1-11" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="424" y="298" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V4ieS1H4nNOc__Q_SMo1-12" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="V4ieS1H4nNOc__Q_SMo1-12" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="500" y="379" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
