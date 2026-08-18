@@ -41,13 +41,13 @@
           <mxGeometry x="462" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-13" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="387" y="247" width="84" height="135" as="geometry" />
+          <mxGeometry x="369" y="247" width="84" height="135" as="geometry" />
         </mxCell>
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-14" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="516" y="247" width="69" height="135" as="geometry" />
+          <mxGeometry x="516" y="247" width="81" height="135" as="geometry" />
         </mxCell>
         <mxCell id="V4ieS1H4nNOc__Q_SMo1-15" value="货架" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="235" y="247" width="69" height="135" as="geometry" />
+          <mxGeometry x="232" y="247" width="81" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
