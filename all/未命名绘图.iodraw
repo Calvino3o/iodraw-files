@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V4ieS1H4nNOc__Q_SMo1-1" value="展示柜" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="V4ieS1H4nNOc__Q_SMo1-1" value="展示柜" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="156" y="212" width="34" height="130" as="geometry" />
         </mxCell>
       </root>
